@@ -4,6 +4,4 @@ This is a new line to verify Tomcat integration and new WAR file
 
 New line added
 2nd Verification...!!!! :)
-<h2> New line added </h2>
-<h2> Webhook integrated with Jenkins.  :) </h2>
-<h2> New changes done.. ! </h2>
+<h2> New code added on 18th Sept'21 </h2>
